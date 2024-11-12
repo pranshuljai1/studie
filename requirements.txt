@@ -1,0 +1,5 @@
+Flask
+wikipedia-api
+pytesseract
+Pillow
+gunicorn
